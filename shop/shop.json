@@ -1,0 +1,189 @@
+{
+    "pickaxes": {
+        "bronze_pickaxe": {
+            "id": "bronze_pickaxe",
+            "name": "Bronze Pickaxe",
+            "price": 100,
+            "minGold": 2,
+            "maxGold": 5
+        },
+        "ironbane_pickaxe": {
+            "id": "ironbane_pickaxe",
+            "name": "Ironbane Pickaxe",
+            "price": 500,
+            "minGold": 5,
+            "maxGold": 10
+        },
+        "steelcrusher_pickaxe": {
+            "id": "steelcrusher_pickaxe",
+            "name": "Steelcrusher Pickaxe",
+            "price": 1000,
+            "minGold": 8,
+            "maxGold": 15
+        },
+        "mithril_digger": {
+            "id": "mithril_digger",
+            "name": "Mithril Digger",
+            "price": 2500,
+            "minGold": 15,
+            "maxGold": 30
+        },
+        "adamantine_excavator": {
+            "id": "adamantine_excavator",
+            "name": "Adamantine Excavator",
+            "price": 5000,
+            "minGold": 25,
+            "maxGold": 50
+        },
+        "runic_pickaxe": {
+            "id": "runic_pickaxe",
+            "name": "Runic Pickaxe",
+            "price": 10000,
+            "minGold": 40,
+            "maxGold": 75
+        },
+        "dragonbone_pickaxe": {
+            "id": "dragonbone_pickaxe",
+            "name": "Dragonbone Pickaxe",
+            "price": 20000,
+            "minGold": 60,
+            "maxGold": 100
+        },
+        "celestial_harvester": {
+            "id": "celestial_harvester",
+            "name": "Celestial Harvester",
+            "price": 50000,
+            "minGold": 100,
+            "maxGold": 150
+        },
+        "obsidian_glaive": {
+            "id": "obsidian_glaive",
+            "name": "Obsidian Glaive",
+            "price": 75000,
+            "minGold": 125,
+            "maxGold": 200
+        },
+        "titanium_smelt": {
+            "id": "titanium_smelt",
+            "name": "Titanium Smelt",
+            "price": 100000,
+            "minGold": 150,
+            "maxGold": 250
+        },
+        "elder_rune_pickaxe": {
+            "id": "elder_rune_pickaxe",
+            "name": "Elder Rune Pickaxe",
+            "price": 200000,
+            "minGold": 200,
+            "maxGold": 300
+        },
+        "astral_excavator": {
+            "id": "astral_excavator",
+            "name": "Astral Excavator",
+            "price": 350000,
+            "minGold": 250,
+            "maxGold": 400
+        },
+        "frostforge_pickaxe": {
+            "id": "frostforge_pickaxe",
+            "name": "Frostforge Pickaxe",
+            "price": 500000,
+            "minGold": 300,
+            "maxGold": 500
+        },
+        "infernal_shard": {
+            "id": "infernal_shard",
+            "name": "Infernal Shard",
+            "price": 750000,
+            "minGold": 400,
+            "maxGold": 600
+        },
+        "spectral_orebreaker": {
+            "id": "spectral_orebreaker",
+            "name": "Spectral Orebreaker",
+            "price": 1000000,
+            "minGold": 500,
+            "maxGold": 800
+        },
+        "shadowstrike_pickaxe": {
+            "id": "shadowstrike_pickaxe",
+            "name": "Shadowstrike Pickaxe",
+            "price": 1500000,
+            "minGold": 600,
+            "maxGold": 900
+        },
+        "stormrune_pickaxe": {
+            "id": "stormrune_pickaxe",
+            "name": "Stormrune Pickaxe",
+            "price": 2000000,
+            "minGold": 700,
+            "maxGold": 1000
+        },
+        "voidhammer": {
+            "id": "voidhammer",
+            "name": "Voidhammer",
+            "price": 2500000,
+            "minGold": 800,
+            "maxGold": 1200
+        },
+        "coral_infused_pickaxe": {
+            "id": "coral_infused_pickaxe",
+            "name": "Coral Infused Pickaxe",
+            "price": 3000000,
+            "minGold": 900,
+            "maxGold": 1500
+        },
+        "valkyries_edge": {
+            "id": "valkyries_edge",
+            "name": "Valkyrie's Edge",
+            "price": 5000000,
+            "minGold": 1000,
+            "maxGold": 2000
+        },
+        "sprintrite_pickaxe": {
+            "id": "sprintrite_pickaxe",
+            "name": "Sprintrite Pickaxe",
+            "price": 9999999,
+            "minGold": 5000,
+            "maxGold": 10000
+        }
+    },
+    "upgrades": {
+        "mining_buddy": {
+            "id": "auto_miner",
+            "name": "Mining Buddy",
+            "description": "Automatically mines for you, as long as you are online.",
+            "price": 1
+        },
+        "golden_touch": {
+            "id": "gold_multiplier_2",
+            "name": "Golden Touch",
+            "description": "Doubles (2x) the amount of gold you get from mining.",
+            "price": 2
+        },
+        "fortunes_favor": {
+            "id": "gold_multiplier_3",
+            "name": "Fortune’s Favor",
+            "description": "Triples (3x) the amount of gold you get from mining. (Requires Golden Touch)",
+            "price": 3
+        },
+        "heart_of_diamonds": {
+            "id": "diamond_multiplier_2",
+            "name": "Heart of Diamonds",
+            "description": "Doubles (2x) the amount of diamonds you get from mining.",
+            "price": 4
+        },
+        "luck_of_the_gods": {
+            "id": "diamond_chance",
+            "name": "Luck of the Gods",
+            "description": "Increases the chance of getting a diamond from mining.",
+            "price": 5
+        },
+        "excavator": {
+            "id": "afk_auto_miner",
+            "name": "Excavator",
+            "description": "Automatically, but slowly, mines for you, even when you are offline.",
+            "price": 10
+        }
+    }
+}
